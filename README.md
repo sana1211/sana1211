@@ -43,7 +43,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sankalpa-sithmina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankalpa-sithmina" height="30" width="40" /></a>
 <a href="https://fb.com/sankalpa sithmina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sankalpa sithmina" height="30" width="40" /></a>
-<a href="[https://instagram.com/supun___lk](https://www.instagram.com/sankalpa_sithmina?utm_source=qr&igsh=MW9yNzd3cWtpaTJpYQ==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankalpa_sithmina" height="30" width="40" /></a>
+<a href="[https://www.instagram.com/sankalpa_sithmina?utm_source=qr&igsh=MW9yNzd3cWtpaTJpYQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankalpa_sithmina" height="30" width="40" /></a>
 </p>
 <br>
 
