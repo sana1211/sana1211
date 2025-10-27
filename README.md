@@ -59,9 +59,10 @@
   
 <br><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sana1211&show_icons=true&locale=en&layout=compact" alt="sana1211" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sana1211&" alt="sana1211" /></p>
-
+<div align="center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sana1211&show_icons=true&locale=en&layout=compact" alt="sana1211" /></p>
+  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sana1211&" alt="sana1211" /></p>
+</div>
 
 
