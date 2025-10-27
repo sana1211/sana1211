@@ -30,7 +30,7 @@
 
 - 🔭 I’m currently study in University of Moratuwa **Bachelor of Information Technology (BIT)**
 
-- 🌱 I’m currently learning **React.Js , Next.JS , Java**
+- 🌱 I’m currently learning **React.Js , Next.JS , Java,  Arduino, Node.JS**
 
 - 👨‍💻 My portfolio [https://sana1211.github.io/sankalpa-portfolio/](https://sana1211.github.io/sankalpa-portfolio/)
 
@@ -52,14 +52,14 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,html,css" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,html,css,arduino" />
   </a>
 </p>
 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,nodejs,c#,php,js" />
+    <img src="https://skillicons.dev/icons?i=js,php,java,nodejs,c#" />
   </a>
 </p>
 
@@ -72,8 +72,8 @@
 
 <h3 align="left">Achievements:</h3>
 
--  Python for Beginners (Grade A)
--  Web Design for Beginners (Grade A)
+-  Python for Beginners | University of Moratuwa (Grade A)
+-  Web Design for Beginners | University of Moratuwa (Grade A)
 -  The Fundamentals of Digital Marketing (Google Digital Garage - Certificate ID : 8FE ZW9 XKG)
 -  Diploma in MS Office (Grade C)
   
