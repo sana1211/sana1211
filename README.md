@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Sankalpa Sithmina</h1>
 <h3 align="center">A software engineer from Sri lanka</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center">Bachelor of Information Technology (BIT) undergraduate at the University of Moratuwa with hands-on experience in front-end development and UI/UX design. Proficient in HTML, CSS, JavaScript and React.js; familiar with NodeJS, MongoDB, .NET and basic SQL. Experienced in building responsive web frontends, prototyping in Figma, and developing small IoT projects with Arduino. Seeking a junior front-end role to contribute to product development and grow technical skills.</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
@@ -22,8 +22,7 @@
 <br>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
