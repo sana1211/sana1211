@@ -3,15 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sankalpa Sithmina</h1>
 <h3 align="center">A frontend developer | Robotic | backend developer</h3>
 <p align="center">Bachelor of Information Technology (BIT) undergraduate at the University of Moratuwa with hands-on experience in front-end development and UI/UX design. 🌐 Proficient in HTML, CSS, JavaScript and React.js, familiar with NodeJS, MongoDB, .NET and basic SQL. 💻 Experienced in building responsive web frontends, prototyping in Figma, and developing small IoT projects with Arduino. Seeking a junior front-end role to contribute to product development and grow technical skills.🛠️</p>
-<p align="center"> 
 
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?sana1211&label=Profile%20views&color=0e75b6&style=flat" alt="Sankalpa Sithmina" /> 
- <!--<img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
- <!--<img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
-</p>
-
-</p>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
