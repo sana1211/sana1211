@@ -1,7 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Sankalpa Sithmina</h1>
-<h3 align="center">A frontend developer | Robotic | backend developer</h3>
+<h3 align="center">A frontend | Robotic | backend developer</h3>
 <p align="center">Bachelor of Information Technology (BIT) undergraduate at the University of Moratuwa with hands-on experience in front-end development and UI/UX design. 🌐 Proficient in HTML, CSS, JavaScript and React.js, familiar with NodeJS, MongoDB, .NET and basic SQL. 💻 Experienced in building responsive web frontends, prototyping in Figma, and developing small IoT projects with Arduino. Seeking a junior front-end role to contribute to product development and grow technical skills.🛠️</p>
 
 
