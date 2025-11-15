@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **React.Js , Next.JS , Java,  Arduino, Node.JS**
 
-- 👨‍💻 My portfolio [https://sana1211.github.io/sankalpa-portfolio/](https://sana1211.github.io/sankalpa-portfolio/)
+- 👨‍💻 My portfolio [https://sana1211.github.io/sankalpa-sithmina/](https://sana1211.github.io/sankalpa-sithmina/)
 
 - 📫 How to reach me **sankalpasithmina18@gmail.com**
 
