@@ -25,8 +25,6 @@
 
 ## 🧑‍💻 &nbsp; About Me
 
-> **“Code with purpose. Design with creativity. Build with passion.”**
-
 I'm **Sankalpa Sithmina**, a **Bachelor of Information Technology (BIT) undergraduate at the University of Moratuwa, Sri Lanka** 🇱🇰, passionate about creating clean, responsive web experiences and exploring the possibilities of software and hardware.
 
 - 🎨 **Frontend & UI/UX:** Building responsive interfaces with **React, Next.js, JavaScript, TypeScript, HTML, CSS and Tailwind CSS**; designing and prototyping in **Figma**.
