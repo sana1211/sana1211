@@ -123,5 +123,17 @@ I'm **Sankalpa Sithmina**, a **Bachelor of Information Technology (BIT) undergra
   <br /><br />
   <sub>Made with 💙 by <a href="https://github.com/sana1211"><b>Sankalpa Sithmina</b></a> • Sri Lanka 🇱🇰</sub>
   <br />
+
+  
+<h2 align="center">🐍 My Contribution Snake</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sana1211/sana1211/output/github-contribution-grid-snake-dark.svg"
+    alt="Sankalpa Sithmina Contribution Snake"
+    width="100%"
+  />
+</p>
+
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,55:6366F1,100:8B5CF6&amp;height=110&amp;section=footer" alt="Gradient footer wave" />
 </div>
